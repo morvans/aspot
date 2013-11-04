@@ -12,8 +12,6 @@ import java.util.Set;
 
 import net.zone84.aspot.desktop.App;
 import net.zone84.aspot.desktop.FileMove;
-import net.zone84.aspot.desktop.media.MovieThumbnailFactory;
-import net.zone84.aspot.desktop.media.PictureThumbnailFactory;
 
 import org.apache.tika.mime.MimeType;
 import org.apache.tika.mime.MimeTypes;
